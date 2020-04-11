@@ -2,5 +2,11 @@
 
 ## Mainstream Intel Xeons
 
-| Bezeichnung | Passmark | CB R20 | CB R15 | CB11 | Geekbench | eBay |
-|-------------|----------|--------|--------|------|-----------|------|
+| Speichergeneration  | DDR3
+| Speicherkanäle      | 2
+| Registered Speicher | Nein
+| ECC Speicher        | Ja
+
+
+| Bezeichnung | Passmark | CB R20 | CB R15 | CB R11 | Geekbench | eBay |
+|-------------|----------|--------|--------|--------|-----------|------|
