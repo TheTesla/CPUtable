@@ -1,2 +1,3 @@
-# CPUtable
-compare CPUs
+# CPU-Vergleichstabelle
+
+## Mainstream Intel Xeons
