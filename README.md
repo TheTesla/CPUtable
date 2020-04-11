@@ -1,0 +1,2 @@
+# CPUtable
+compare CPUs
